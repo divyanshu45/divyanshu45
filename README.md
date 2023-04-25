@@ -17,9 +17,9 @@
 
 - 💻 All of my projects are available at [https://github.com/divyanshu45](https://github.com/divyanshu45)
 
-- 💬 Ask me about **android, java, kotlin, android related stuff**
+- 💬 Ask me about **android, java, kotlin, flutter related stuff**
 
-- 📫 How to reach me **mdivyanshu4545@gmail.com**
+- 📫 How to reach me **mdivyanshu996@gmail.com**
 
 - ⚡ I like to play **cricket 🏏**
 
@@ -35,6 +35,9 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshu45&show_icons=true&locale=en&layout=compact" alt="divyanshu45" height="200" width="400"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshu45&show_icons=true&locale=en&layout=compact" alt="divyanshu45" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshu45&show_icons=true&locale=en" alt="divyanshu45" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu45&" alt="divyanshu45" /></p>
 
