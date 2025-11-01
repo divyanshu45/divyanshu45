@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
-- 💻 All of my projects are available at [https://github.com/divyanshu45](https://github.com/divyanshu45)
+- 💻 All of my projects are available at [https://github.com/divyanshu45](https://github.com/divyanshu45?tab=repositories)
 
 - 💬 Ask me about **android, java, kotlin, flutter related stuff**
 
